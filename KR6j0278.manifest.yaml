@@ -1,0 +1,67 @@
+canonical_identifier: bkk:krp/KR6j0278/v1
+canonical_location: https://kanripo.org/bkk/KR6j0278/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 聖賀野紇哩縛大威怒王立成大神驗供養念誦儀軌法品
+  identifiers:
+    alt_id:
+    - T20n1072A
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1072A.xml
+    old_id: T20n1072A
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 乙
+  label: 乙
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 原
+  label: 原
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0278_000.yaml, hash: 'sha256:8bac4098eb6c893a802a7606e1183a6b5f09bb367356d6e4a2db7bb679bfd5c8'}
+  - {seq: 1, filename: KR6j0278_001.yaml, hash: 'sha256:803598823123a64f0ab9c2aff83b75dbb3b73e1ff67445463148b64110dd29c1'}
+  - {seq: 2, filename: KR6j0278_002.yaml, hash: 'sha256:4425f5d8b9f0e9fffe0c229b72fc5fc1629791fa21e2a8a154cf9a8e3f5e2c3c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0278_001.markers.yaml, hash: 'sha256:b8c21800a8301d91b3ab15283dce16ebca48d4a1a19b97c2ca24d7a0b4dbaefc'}
+  - {seq: 2, role: markers, filename: assets/KR6j0278_002.markers.yaml, hash: 'sha256:81de97ac78b7ba7ffb5c6ed2e861a9a0a52d722cedd13969a449484942bb67dc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0278_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10104
+  label: '聖賀野紇哩縛大威怒王立成
+
+    大神驗供養念誦儀軌法品上卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0278_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9637
+  label: '聖賀野紇哩縛大威怒王立成大
+
+    神驗供養念誦儀軌法品下卷'
+  type: juan
+  level: 1
+hash: sha256:cbcb709952243ae89baed0fc2f4b005972ab970a24565439da37c944159d0f1b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

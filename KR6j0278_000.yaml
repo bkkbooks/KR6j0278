@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0278/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 聖賀野紇哩縛大威怒王立成大神驗供養念誦儀軌法品
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1072A.xml
+    old_id: T20n1072A
+hash: sha256:8bac4098eb6c893a802a7606e1183a6b5f09bb367356d6e4a2db7bb679bfd5c8
