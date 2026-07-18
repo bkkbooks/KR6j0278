@@ -34,7 +34,7 @@ assets:
   - {seq: 1, filename: KR6j0278_001.yaml, hash: 'sha256:c3e27431a563238b2ad8c36ca48227ee3a3ed36fe4ec4ff5596db276dad726b6'}
   - {seq: 2, filename: KR6j0278_002.yaml, hash: 'sha256:bc2ef56a86fe1af78c464d1b3c581347cffe8ef55236f2dba3c673074571e2db'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0278_000.markers.yaml, hash: 'sha256:cc19479e2bf5198731124f4ce6d16cdc12ae8716aa9dffaad916ed22ce2524ee'}
+  - {seq: 0, role: markers, filename: assets/KR6j0278_000.markers.yaml, hash: 'sha256:4d8a2f9fa99a1c6bf3b1de3830b2d9f40416c5ae26b896bbf22ae9844d6762e5'}
   - {seq: 1, role: markers, filename: assets/KR6j0278_001.markers.yaml, hash: 'sha256:b12d69a17824045c9cdfc9b4c3dd352a99f1bf98ae5899784b9d5d7a620d8b91'}
   - {seq: 2, role: markers, filename: assets/KR6j0278_002.markers.yaml, hash: 'sha256:0950156a65be1306c9b08bfb287dc621888e48405b235601e034434dbc437841'}
 table_of_contents:
@@ -62,7 +62,7 @@ table_of_contents:
     神驗供養念誦儀軌法品下卷'
   type: juan
   level: 1
-hash: sha256:58e4932497eac206e0fb7f3d54cced297472cb2c92d1746a339eef7362adcc7e
+hash: sha256:0beea69e1fd37796140b418c5d000de9cb8a5973aa42687d7037ab5396bc8c06
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
